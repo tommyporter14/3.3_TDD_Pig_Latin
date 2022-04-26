@@ -1,12 +1,6 @@
 
 public class TDD_Pig_Latin {
 
-	public static void main(String[] args) {
-
-		String word = "apple";
-		System.out.println(translate(word));
-		
-	}
 
 	public static String translate(String word)//translate words to pig latin
 	{
